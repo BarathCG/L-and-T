@@ -1,1 +1,88 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f6fa;
+}
+
+/* Header */
+header {
+    background-color: #2f3640;
+    color: white;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.2rem;
+}
+
+header p {
+    margin-top: 8px;
+    font-size: 1rem;
+    color: #dcdde1;
+}
+
+/* Main Layout */
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 30px 15px;
+}
+
+/* Form Cards */
+.participant-form {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+}
+
+.participant-form h2 {
+    color: #273c75;
+    margin-bottom: 15px;
+    font-size: 1.3rem;
+}
+
+/* Form Elements */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #dcdde1;
+    font-size: 0.9rem;
+}
+button {
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+@media (max-width: 900px) {
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+}
 
