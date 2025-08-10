@@ -19,7 +19,8 @@ All work was completed collaboratively in a group of three members.
 A modern, responsive digital business card showcasing personal and professional details with a clean UI.  
 
 **Folder:** [`Project1_Digital_Business_Card/`](./Project1_Digital_Business_Card)  
-**Report:** [📄 DIGITAL BUSINESS CARD1.pdf](./DIGITAL_BUSINESS_CARD1.pdf)  
+**Report:** [📄 DIGITAL_BUSINESS_CARD1.pdf](./Project1_Digital_Business_Card/DIGITAL%20BUSINESS%20CARD1.pdf)
+
 
 ---
 
