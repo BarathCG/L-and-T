@@ -28,7 +28,7 @@ A modern, responsive digital business card showcasing personal and professional 
 **Overview:**  
 An interactive event registration webpage designed to collect user details in a clean, accessible form layout.  
 
-**Folder:** [`Project_2_Event_Registration_Page/`](./Project2_Event_Registration_Page)  
+**Folder:** [`Project_2_Event_Registration_Page/`](./Project_2_Event_Registration_Page)  
 **Report:** [📄EVENT_REGISTRATION_PAGE.pdf](./Project_2_Event_Registration_Page/EVENT%20REGISTRATION%20PAGE.pdf)
 
 ---
