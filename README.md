@@ -7,7 +7,7 @@ All work was completed collaboratively in a group of three members.
 
 ## 👥 Group Members
 - **Barath C G**  
-- **Rishi**  
+- **Rishi Renjith**  
 - **Sri Ramanarayana**  
 
 ---
